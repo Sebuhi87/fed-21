@@ -5,3 +5,10 @@ p {
 h1{
     color: aqua;
 }
+
+.class{
+    color: aqua;
+    font-size: 50%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
